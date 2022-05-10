@@ -427,7 +427,7 @@ img {
   align-items: baseline;
 }
 .footer-one {
-  width: 230px;
+  min-width: 230px;
 }
 .footer .logo {
   margin-bottom: 20px;
